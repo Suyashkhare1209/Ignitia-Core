@@ -95,8 +95,8 @@ LinkedIn: https://linkedin.com/in/suyashkhare
 
 Shashwat Verma
 Email: aviverma2004@gmail.com  
-LinkedIn: https://linkedin.com/in/suyashkhare  
-https://www.linkedin.com/in/shashwat-verma2004
+LinkedIn: https://www.linkedin.com/in/shashwat-verma2004
+
 ---
 
 ## 📜 License
