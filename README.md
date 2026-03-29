@@ -89,11 +89,13 @@ Developed a scalable prototype for real-world wildfire prediction scenarios
 
 ## 👨‍💻 Author
 
-Suyash Khare
+Suyash Khare 
+
 Email: suyashkhare981@gmail.com  
 LinkedIn: https://linkedin.com/in/suyashkhare  
 
 Shashwat Verma
+
 Email: aviverma2004@gmail.com  
 LinkedIn: https://www.linkedin.com/in/shashwat-verma2004
 
